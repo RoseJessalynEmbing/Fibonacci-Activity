@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html version="1.0" enoding ="UTF-8">
     <html>
         <head>
@@ -10,12 +9,6 @@
            .image
            {
                background-image: url(https://i.pinimg.com/originals/1e/3d/47/1e3d471b00fc79a07c656588f01708f3.jpg);
-               background-repeat: no-repeat;
-               background-position: center;
-               background-size: cover;
-               position: center;
-               height: 900px;
-               width: 1240px;
            }
            h1
            {
@@ -33,13 +26,12 @@
                color: rgb(157, 78, 189);
            }
        </style>
-       <body class="image">
        </body>
 
        <h1> Activity 3</h1>
        &nbsp;
        &nbsp;
-       <hr></hr>
+       <hr>
        <body>
        <h2> Fibonacci Sequence</h2>
 
