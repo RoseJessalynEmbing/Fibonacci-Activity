@@ -9,6 +9,12 @@
            .image
            {
                background-image: url(https://i.pinimg.com/originals/1e/3d/47/1e3d471b00fc79a07c656588f01708f3.jpg);
+               background-repeat: no-repeat;
+               background-position: center;
+               background-size: cover;
+               position: center;
+               height: 900px;
+               width: 1240px;
            }
            h1
            {
