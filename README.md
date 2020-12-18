@@ -32,6 +32,7 @@
                color: rgb(157, 78, 189);
            }
        </style>
+       <body class="image">
        </body>
 
        <h1> Activity 3</h1>
@@ -63,6 +64,5 @@
             f2=f3;
         }
         </script>
-    </hr>
     </body>
     </html>
